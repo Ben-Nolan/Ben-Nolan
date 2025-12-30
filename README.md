@@ -2,8 +2,8 @@
 
 I’m a Data Scientist building and supporting production ML and LLM systems for clinical and operational decision-making. 
 
-I'm always looking for opportunities to learn or deepen my understanding of existing skills. I learn best by doing (checkout my most recent project!)  
-🚀 [transcript-to-chat](https://github.com/Ben-Nolan/transcript-to-chat/blob/main/README.md) — *An interactive RAG sandbox that allows a user to visuzlize the RAG pipeline*
+I'm always looking for opportunities to learn or deepen my understanding of existing skills. I learn best by doing (check out my most recent project!)  
+🚀 [transcript-to-chat](https://github.com/Ben-Nolan/transcript-to-chat/blob/main/README.md) — *An interactive RAG sandbox that allows a user to visualize the RAG pipeline*
 
 ---
 
